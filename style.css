@@ -1,0 +1,118 @@
+.mycontainer{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/foodmunch-banner-bg.png");
+    height: 85vh;
+    background-size: cover;
+
+}
+.banner_heading{
+    color: white;
+    font-family: robot;
+    font-size: 50vpx;
+}
+.banner_para{
+    color: #bcfd4c;
+    font-style: italic;
+    font-size: 20px;
+}
+.navbar_background{
+    background-color: #6e6e6e;
+}
+.my-wcu-container{
+    background-color: #d0f1f4;
+    border-width: 1px;
+    border-radius: 10px;
+    border-style: outset;
+}
+.wcu-heading1{
+    color: #deb992;
+    padding: 10px;
+    font-family: robot;
+    font-style: inherit;
+    text-transform: capitalize;
+    font-size: 150%;
+
+}
+.wcu-para1{
+    color: #1ba098;
+    font-family: robot;
+    font-style: italic;
+}
+.wcu-heading2{
+    color: rgb;
+    padding-top: 10px;
+    font-style: inherit;
+    text-transform: capitalize;
+
+}
+.em-image{
+    height: 30%;
+    width: 100%;
+    border-radius: 15%;
+    padding: 0px;
+}
+.em-container{
+    background-color: rgb(202, 236, 236);
+    border-radius: 10px;
+}
+.em-heading{
+        color: #183b56;
+        font-family: "Roboto";
+        font-size: 20px;
+        font-weight: 700;
+}
+.em-background{
+    background-image: url("https://images.pexels.com/photos/1028599/pexels-photo-1028599.jpeg?auto=compress&cs=tinysrgb&w=600");
+    height: 100%;
+    background-size: cover;
+}
+.em-main-heading{
+    color: #183b56;
+}
+.hfs-my-image{
+    height: 300px;
+    width: 100%;
+    border-radius: 10px;
+
+}
+.hfs-heading{
+    font-family: roboto;
+    font-size: 25px;
+    font-weight: 700;
+    text-transform: capitalize;
+}
+.hfs-container{
+    background-color: #183b56;
+}
+.dp_top_image{
+    height: 400px;
+    width: 400px;
+    border-radius: 2px;
+}
+.dp_botttom_logos{
+    height: 80px;
+    width: 80px;
+    padding-right: 10px;
+}
+.thak-img{
+    height: 300px;
+    width: 300px;
+}
+.thank-bg{
+    background-color: #d0b2001a;
+
+}
+.follow-us-icon-container {
+    background-color: #faf7e8;
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    margin: 15px;
+    padding-top: 22px;
+    padding-bottom: 14px;
+    padding-right: 16px;
+    padding-left: 22px;
+  }
+  .icon {
+    color: #d0b200;
+    font-size: 35px;
+  }
